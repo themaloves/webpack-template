@@ -1,0 +1,43 @@
+{
+  "name": "webpack-learn",
+  "version": "1.0.0",
+  "description": "webpack learn basic",
+  "private": true,
+  "scripts": {
+    "dev": "webpack --mode development --progress --color",
+    "build": "webpack --mode production",
+    "watch": "webpack --mode development --watch",
+    "server:dev": "webpack-dev-server --mode development --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intehart/webpack.git"
+  },
+  "keywords": [
+    "js",
+    "webpack",
+    "javascript"
+  ],
+  "author": "Ruslan <zamruma@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intehart/webpack/issues"
+  },
+  "homepage": "https://github.com/intehart/webpack#readme",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "normalize.css": "^8.0.1",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "copy-webpack-plugin": "^6.2.1",
+    "css-loader": "^5.0.0",
+    "file-loader": "^6.1.1",
+    "html-webpack-plugin": "^4.5.0",
+    "style-loader": "^2.0.0",
+    "webpack-dev-server": "^3.11.0",
+    "xml-loader": "^1.2.1"
+  }
+}

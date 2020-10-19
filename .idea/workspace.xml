@@ -1,11 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="78498745-4ac7-4c8d-b427-093953611fbd" name="Default Changelist" comment="" />
+    <list default="true" id="78498745-4ac7-4c8d-b427-093953611fbd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/analytics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/baby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/montserrat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Post.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBowerSettings">
     <node-interpreter value="project" />
@@ -26,7 +76,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -40,6 +90,18 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\project\webpack\src" />
+      <recent name="C:\project\webpack\src\assets\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\project\webpack\src\models" />
+      <recent name="C:\project\webpack\src\assets" />
+      <recent name="C:\project\webpack\src" />
+      <recent name="C:\project\webpack\dist" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,17 +110,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603091831627</updated>
-      <workItem from="1603091832684" duration="1874000" />
+      <workItem from="1603091832684" duration="2980000" />
+      <workItem from="1603095668354" duration="15866000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="-1186" y="347" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603106594115">
+      <screen x="-1920" y="5" width="1920" height="1080" />
+    </state>
+    <state x="-1186" y="347" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.5.1920.1080@-1920.5.1920.1080" timestamp="1603106594115" />
     <state x="-1459" y="190" key="SettingsEditor" timestamp="1603092641305">
       <screen x="-1920" y="5" width="1920" height="1080" />
     </state>
     <state x="-1459" y="190" key="SettingsEditor/0.0.1920.1040/-1920.5.1920.1080@-1920.5.1920.1080" timestamp="1603092641305" />
+    <state x="-1253" y="144" width="585" height="801" key="find.popup" timestamp="1603115344722">
+      <screen x="-1920" y="5" width="1920" height="1080" />
+    </state>
+    <state x="-1253" y="144" width="585" height="801" key="find.popup/0.0.1920.1040/-1920.5.1920.1080@-1920.5.1920.1080" timestamp="1603115344722" />
+    <state x="-1297" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1603115343271">
+      <screen x="-1920" y="5" width="1920" height="1080" />
+    </state>
+    <state x="-1297" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.5.1920.1080@-1920.5.1920.1080" timestamp="1603115343271" />
   </component>
 </project>

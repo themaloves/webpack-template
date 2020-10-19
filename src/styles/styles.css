@@ -1,0 +1,28 @@
+@import "montserrat.css";
+@import "~normalize.css";
+
+.container {
+    padding-top: 2rem;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.logo {
+    background-image: url("../assets/baby.jpg");
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.sd {
+    color: aqua;
+}
